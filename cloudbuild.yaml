@@ -18,3 +18,4 @@ steps:
 substitutions:
   _TELEGRAM_BOT_AUTHENTICATION_TOKEN: unused
   _PUBLIC_ENDPOINT: unused
+  _FIRESTORE_COLLECTION_NAME: unused
